@@ -10,4 +10,4 @@
     ⏺ todo-app
     ⏺ Weather-app
     
-### see the projects here 👉🏼 https://javascript-advance-projects.web.app/
+### see all projects here 👉🏼 https://javascript-advance-projects.web.app/
