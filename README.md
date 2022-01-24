@@ -1,4 +1,4 @@
-# javascriptAdvanceProjects
+# Javascript Advance Projects
 
     ⏺ Drawing-app
     ⏺ github-profiles
